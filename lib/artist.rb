@@ -8,6 +8,6 @@ class Artist
     @name = name
   end
  
-
+ def 
  
 end
